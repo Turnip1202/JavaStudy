@@ -13,6 +13,4 @@ public class TestDemo {
         HashMap<String, String> map = new HashMap<>();
         map.put(null,null);
     }
-
-
 }
